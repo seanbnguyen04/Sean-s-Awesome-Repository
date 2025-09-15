@@ -7,4 +7,7 @@ cpsc 131, section 02, Week 1
 * CWID: 885055756
 * Email: Seanbnguyen04@csu.fullerton.edu
 
-This is my ReadMe.md file haha
+# Instructions 
+
+There is none haha
+This is my ReadMe.md file 
