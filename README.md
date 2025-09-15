@@ -1,2 +1,2 @@
 # Sean-s-Awesome-Repository
-lab-00
+Random words for my readme.md file
